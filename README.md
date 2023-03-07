@@ -1,20 +1,30 @@
 # Hola que placer saludarte 👋
 
 ## Mi nombre es Jesus Galvis😉
+
+```
+ Apenas estoy comenzando en el mundo de la programacion y 
+ espero pronto ser un verdadero full stack poco a poco ire creando
+ nuevos repositorios y espero tener muchas sugerencias de ustedes para mejorar_ ✌️🧑‍💻
  
- ### _Apenas estoy comenzando en el mundo de la programacion y espero pronto ser un verdadero full stack poco a poco ire creando nuevos repositorios y espero tener muchas sugerencias de ustedes para mejorar_ ✌️🧑‍💻
+```
 
-<!--
-**Jesusgal2023/Jesusgal2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# realizando bootcamp full stack #
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ *primeras clases*
+------------------
+
+* el mundo del markdon  
+* sintaxis basica del markdown
+* ntaxis saborizada en GitHub
+* uso basico de la terminal 
+* ️Conociendo la terminal
+* ️Comandos alias para la terminal 
+
+|comandos |en la terminal        |
+|-----|---------------------------|
+|claer| limpiar                   |
+|cd   |cambiar de directorio      |
+|mkdir|crear una carpeta          |
+|ls   |listar los documentos      |
