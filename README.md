@@ -28,3 +28,15 @@
 |cd   |cambiar de directorio      |
 |mkdir|crear una carpeta          |
 |ls   |listar los documentos      |
+
+# Jesus Galvis
+
+soy un **desarrollador de software de nivel de entrada** busco trabajo en un equipo de desarrollo, deseo Ayudarlos con todas las tareas de **_codificación y diseño de software._** y tener la oportunidad de crecer y aportar en diferentes **_proyectos_**
+
+|habilidades|nivel |
+------|----------|
+|html | entrada |
+|css  | entrada|
+|js   |entrada |
+|git | entrada|
+|terminal|entrada|
